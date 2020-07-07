@@ -881,7 +881,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-rXs691bN6l button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1117,7 +1117,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXs691bN6l .nav-link:hover,
 .cid-rXs691bN6l .dropdown-item:hover {
-  color: #232323 !important;
+  color: #000000 !important;
 }
 .cid-rXse07yNgi {
   padding-top: 60px;
